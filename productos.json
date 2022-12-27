@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1648319850314,
+        "title": "Product 1",
+        "price": 10,
+        "description":"descripcion prod1",
+        "code": "code-1",
+        "image": "Product1.com",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "timestamp": 1648319850314,
+        "title": "Product 2",
+        "price": 20,
+        "description":"description prod2",
+        "code": "code-2",
+        "image": "someUrlProduct2.com",
+        "stock": 200
+    },
+    {
+        "id": 3,
+        "timestamp": 1648319850314,
+        "title": "Product 31",
+        "price": 30,
+        "description":"description prod3",
+        "code": "code-3",
+        "image": "Product3.com",
+        "stock": 300
+    },
+    {
+        "id": 4,
+        "timestamp": 1648319850314,
+        "title": "Product 4",
+        "price": 40,
+        "description":"description prod4",
+        "code": "code-4",
+        "image": "Product4.com",
+        "stock": 400
+    }
+]
